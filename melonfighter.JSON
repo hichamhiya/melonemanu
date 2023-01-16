@@ -1,5 +1,5 @@
 {
-	"version": "said v2.1",
+	"version": "Melon v2.1",
 
 "applovinsdk": "A8wlgmJAawwWy-xN8SDz4tP_2eB2TNFI-Jh7XBZ5r3Wv2q-HGBanqWP9NKTR6wqzdwK-tiEseJMx1_IDgtcZTm",
 "applovinbanner": "539de5a1cbe7871f",
@@ -16,9 +16,9 @@
 
 
 "adsSwitch detail ": " 1:admob 2:applovin  0:auto",
-"adsSwitchInter": "2",
-"adsSwitchBanner": "2",
-"adsSwitchReward": "2"
+"adsSwitchInter": "1",
+"adsSwitchBanner": "1",
+"adsSwitchReward": "1"
 
 
 }
